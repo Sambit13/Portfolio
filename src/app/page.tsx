@@ -234,7 +234,7 @@ export default function Home() {
           </div>
 
           <p className="text-sm md:text-base text-zinc-400 leading-relaxed font-normal max-w-2xl mb-6 tracking-wide">
-            I'm a Full Stack Developer passionate about building scalable web applications, AI-powered tools, and modern digital products. **Currently working at Accenture as an Associate Software Engineer (ASE) in the role of a Packaged App Developer.** I enjoy turning complex backends and machine learning workflows into clean, production-ready systems.
+            I'm a Full Stack Developer passionate about building scalable web applications, AI-powered tools, and modern digital products. Currently working at Accenture as an Associate Software Engineer (ASE) in the role of a Packaged App Developer. I enjoy turning complex backends and machine learning workflows into clean, production-ready systems.
           </p>
 
           {/* Action Button Container */}
